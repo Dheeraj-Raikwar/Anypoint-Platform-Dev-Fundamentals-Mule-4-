@@ -1,0 +1,18 @@
+http:
+  port: "8081"
+
+
+sfdc:
+  username: "dr8@salesforce.com"
+  password: "Salesforce@23"
+  token: "1VZWqbJppSbSBXYHJUJmaS47"
+  
+file:
+  accountsDir: "H:\ Mule Training Data\ APDevFundamentals4.3_studentFiles_29apr2021\ APDevFundamentals4.3_studentFiles_29apr2021\resources"
+  
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
